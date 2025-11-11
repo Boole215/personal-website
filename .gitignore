@@ -1,0 +1,11 @@
+node_modules
+
+.cache
+/web/.cache
+/web/build
+/web/public/build
+/web/.env
+*~
+\#*\#
+.\#*
+dump.rdb
